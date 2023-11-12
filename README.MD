@@ -57,12 +57,8 @@ Time= 0.000700709 seconds
 ```
 This time we tested them with an array. Now parallelSort ended up slower, which is alo excepted because for small arrays the overhead of parallelism will make it slower.
 
-# Notes
-- When creating an array with random integers, the same sequence of numbers is always used, ensuring a fair comparison between different iterations.
-- For your sorting method to work with this tool, it should accept an int[] as its only parameter and return void (hence sort array in-place).If your method's logic is different you can use lambdas to workaround this.😀
 
-
-# Customization
+## Customization
 - When creating an array with random integers, the same sequence of numbers is always used, ensuring a fair comparison between different iterations.
 You can set RANDOMIZE to true for creating new random values on each run. Though note that this can make comparisions unfair as some datasets are easier to sort than the others
 
@@ -95,6 +91,11 @@ Make the program:
 - Accept collection data types( ArrayList, LinkedList, HashSet...)
 - Accept custom comparator to modify sorting procedure
 - Accept custom randomizer to create random data with a specific pattern
+
+## Contact
+
+For problems or suggestions raise an [Issue](https://github.com/atahanuz/sorting-benchmark/issues/new) in this repo and I'll happily respond. 
+You can mail me at atahanuz23@gmail.com but it'd be better if you raise an Issue so everyone can see and contribute to the discussion. It also sends a notification to my phone so I can respond faster.
 
 
 
