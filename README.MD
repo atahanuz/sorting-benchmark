@@ -4,7 +4,7 @@ Benchmark Sorting Algorithms in Java
 An utility for benchmarking sorting algorithms in Java. You can use it to easily test the speed of your sorting algorithms as well as Java's built-in sorting methods.
 
 ## Installation
-Add this to your Maven configuration
+Add this to your Maven configuration. Or you can manually download the source code and add SortingBenchmark.java to your package.
 ```xml
 <dependency>
   <groupId>com.atahanuz</groupId>
