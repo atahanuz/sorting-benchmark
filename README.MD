@@ -1,7 +1,7 @@
 # sorting-benchmark-java
 Benchmark Sorting Algorithms in Java
 
-An utility for benchmarking sorting algorithms in Java. You can use it to easily test the speed of your sorting algorithms as well as Java's built in sorting methods.
+An utility for benchmarking sorting algorithms in Java. You can use it to easily test the speed of your sorting algorithms as well as Java's built-in sorting methods.
 
 ## Installation
 Add this to your Maven configuration
@@ -95,7 +95,7 @@ Make the program:
 ## Contact
 
 For problems or suggestions raise an [Issue](https://github.com/atahanuz/sorting-benchmark/issues/new) in this repo and I'll happily respond. 
-You can mail me at atahanuz23@gmail.com but it'd be better if you raise an Issue so everyone can see and contribute to the discussion. It also sends a notification to my phone so I can respond faster.
+You can mail me at atahanuz23@gmail.com too but it'd be better if you raise an Issue so everyone can see and contribute to the discussion. It also sends a notification to my phone so I'll be able to respond faster.
 
 
 
