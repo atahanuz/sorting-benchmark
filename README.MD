@@ -5,7 +5,7 @@ An utility for benchmarking sorting algorithms in Java. You can use it to easily
 
 ## Installation
 Add this to your Maven configuration
-```
+```xml
 <dependency>
   <groupId>com.atahanuz</groupId>
   <artifactId>sorting-benchmark</artifactId>
